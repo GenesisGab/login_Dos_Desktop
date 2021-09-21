@@ -11,9 +11,11 @@ Section{
 
 .formulario-login h2 {
     font-size: 5rem;
+    margin-left: 2rem;
 }
 .formulario-login span {
     font-size: 3rem;
+    margin-left: 2rem;
 }
 .banner-login img{
     width: 40rem;
